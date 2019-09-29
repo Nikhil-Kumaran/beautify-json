@@ -1,11 +1,17 @@
 {
   "name": "beautify-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Beautify JSON with colors and indentation and print it on terminal",
   "main": "index.js",
-  "scripts": {
-  },
-  "keywords": ["json", "json-beautify", "beautify", "json-prettify", "prettify", "json-formatter"],
+  "scripts": {},
+  "keywords": [
+    "json",
+    "json-beautify",
+    "beautify",
+    "json-prettify",
+    "prettify",
+    "json-formatter"
+  ],
   "author": "Nikhil Kumaran S",
   "license": "ISC",
   "dependencies": {
